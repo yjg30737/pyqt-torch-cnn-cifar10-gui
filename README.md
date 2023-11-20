@@ -13,6 +13,8 @@ That means this model is not accurate. This is more like for studying purpose ra
 
 You can see the whole tutorial in <a href="https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html">pytorch official tutorial site</a>.
 
+If you want to get far more accurate model example, <a href="https://github.com/yjg30737/pyqt-pytorch-image-classification-gui">try this</a>! 
+
 ## How to Install
 1. git clone ~
 2. python main.py
