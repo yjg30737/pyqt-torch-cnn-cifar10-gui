@@ -15,8 +15,7 @@ You can see the whole tutorial in <a href="https://pytorch.org/tutorials/beginne
 
 ## How to Install
 1. git clone ~
-2. pip install -r requirements.txt
-3. python main.py
+2. python main.py
 
 After running the script, the model will be loaded. You can see the input line at the upper side of the window. Add any image URL from the web, click the run button, and see what happens.
 
